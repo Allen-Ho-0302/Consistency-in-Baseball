@@ -1,1 +1,1 @@
-# ConsistencyinBaseball
+This article will focus solely on how consistent a hitter produces his results and boiling that down to a simple number. We will call this game-by-game, or GBG for short. The goal of this exercise is to see if a hitter’s consistency impacts both his production and the team’s chances of winning.
